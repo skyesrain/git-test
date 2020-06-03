@@ -1,0 +1,1 @@
+This is thaddeus first git project
